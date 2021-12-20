@@ -1,3 +1,3 @@
 # Game-of-Thrones
-Game of thrones characters and predictions
+Game of thrones characters
 
