@@ -1,3 +1,3 @@
-# Game-of-Thrones
-Game of thrones characters
+# Tableau - Game-of-Thrones
+Tableau Visualization - Game of thrones characters
 
